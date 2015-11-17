@@ -1,6 +1,6 @@
 # Coding Interview
 
-Solutions for [Cracking the Coding Interview Fifth Edition]() book in JavaScript.
+Solutions for *[Cracking the Coding Interview, Fifth Edition](http://www.careercup.com/book)* book in JavaScript.
 
 # Usage
 
